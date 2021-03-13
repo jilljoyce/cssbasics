@@ -1,0 +1,15 @@
+body {
+    color: rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.black-border {
+    border: 2px solid black;
+    padding: 15px;
+}
+header {
+    padding: 50px;
+}
+#beige-background {
+    background-color: rgb(252, 244, 236);
+}
